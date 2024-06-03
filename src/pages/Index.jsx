@@ -15,7 +15,7 @@ const Index = () => {
         </Box>
 
         <Box>
-          <Image src="https://images.unsplash.com/photo-1600790057635-1c6f2f3c1b9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjb250YWluZXIlMjBzaGlwfGVufDB8fHx8MTY4NTc4NzY0Nw&ixlib=rb-4.0.3&q=80&w=1080" alt="Container Ship" borderRadius="md" />
+          <Image src="https://images.unsplash.com/photo-1516912919409-2f7f1a1a9b2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjb250YWluZXIlMjBzaGlwfGVufDB8fHx8MTY4NTc4NzY0Nw&ixlib=rb-4.0.3&q=80&w=1080" alt="Container Ship" borderRadius="md" />
         </Box>
 
         <Box>
